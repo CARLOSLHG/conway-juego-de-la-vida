@@ -1,5 +1,8 @@
 ## **Juego de la Vida \- en Python**
 
+[![Run on Replit](https://replit.com/badge/github/CARLOSLHG/conway-juego-de-la-vida)](https://replit.com/github/CARLOSLHG/conway-juego-de-la-vida)
+[![Abrir en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CARLOSLHG/conway-juego-de-la-vida)
+
 ### **¿Qué es el Juego de la Vida?**
 
 El **Juego de la Vida** es un experimento matemático creado por el científico **John Conway** en 1970\. Se trata de un **autómata celular** que simula la evolución de una población de células en una cuadrícula.  
@@ -72,3 +75,5 @@ En cada generación:
 
 * Sistema operativo con soporte de terminal (Windows, Linux, macOS)
 
+[![Run on Replit](https://replit.com/badge/github/CARLOSLHG/conway-juego-de-la-vida)](https://replit.com/github/CARLOSLHG/conway-juego-de-la-vida)
+[![Abrir en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/CARLOSLHG/conway-juego-de-la-vida)
